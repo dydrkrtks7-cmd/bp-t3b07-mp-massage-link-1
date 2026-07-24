@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img">
+  <title>영등포 룸싸롱 추천 가이드</title>
+  <rect width="64" height="64" rx="10" fill="hsl(125 42% 30%)"/>
+  <path d="M64 0v26L38 0Z" fill="hsl(204 68% 62%)" opacity="0.16"/>
+  <g transform="rotate(180 32 32)"><circle cx="32" cy="32" r="17" fill="none" stroke="hsl(125 24% 96%)" stroke-width="8"/><circle cx="32" cy="32" r="7" fill="hsl(204 68% 62%)"/></g>
+</svg>
